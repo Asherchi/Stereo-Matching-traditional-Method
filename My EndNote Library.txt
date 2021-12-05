@@ -1,0 +1,62 @@
+﻿[1]	M. Amirul Islam, M. Rochan, N. D. Bruce et al., "Gated feedback refinement network for dense image labeling." pp. 3751-3759.
+[2]	A. Atapour-Abarghouei, and T. P. Breckon, "Real-time monocular depth estimation using synthetic data with domain adaptation via image style transfer." pp. 2800-2810.
+[3]	S. F. Bhat, I. Alhashim, and P. Wonka, "Adabins: Depth estimation using adaptive bins." pp. 4009-4018.
+[4]	Z. Cai, Q. Fan, R. S. Feris et al., "A unified multi-scale deep convolutional neural network for fast object detection." pp. 354-370.
+[5]	V. Casser, S. Pirk, R. Mahjourian et al., "Depth prediction without the sensors: Leveraging structure for unsupervised learning from monocular videos." pp. 8001-8008.
+[6]	J.-R. Chang, and Y.-S. Chen, "Pyramid stereo matching network." pp. 5410-5418.
+[7]	S. Chen, Z. Pu, X. Fan et al., “Fixing Defect of Photometric Loss for Self-Supervised Monocular Depth Estimation,” IEEE Transactions on Circuits and Systems for Video Technology, 2021.
+[8]	X. Chen, X. Chen, and Z.-J. Zha, “Structure-aware residual pyramid network for monocular depth estimation,” arXiv preprint arXiv:1907.06023, 2019.
+[9]	D. Eigen, and R. Fergus, "Predicting depth, surface normals and semantic labels with a common multi-scale convolutional architecture." pp. 2650-2658.
+[10]	D. Eigen, C. Puhrsch, and R. Fergus, “Depth map prediction from a single image using a multi-scale deep network,” arXiv preprint arXiv:1406.2283, 2014.
+[11]	H. Fu, M. Gong, C. Wang et al., "Deep ordinal regression network for monocular depth estimation." pp. 2002-2011.
+[12]	R. Garg, V. K. Bg, G. Carneiro et al., "Unsupervised cnn for single view depth estimation: Geometry to the rescue." pp. 740-756.
+[13]	R. Garg, N. Wadhwa, S. Ansari et al., "Learning single camera depth estimation using dual-pixels." pp. 7628-7637.
+[14]	G. Ghiasi, T.-Y. Lin, and Q. V. Le, "Nas-fpn: Learning scalable feature pyramid architecture for object detection." pp. 7036-7045.
+[15]	C. Godard, O. Mac Aodha, and G. J. Brostow, "Unsupervised monocular depth estimation with left-right consistency." pp. 270-279.
+[16]	C. Godard, O. Mac Aodha, M. Firman et al., "Digging into self-supervised monocular depth estimation." pp. 3828-3838.
+[17]	X. Guo, H. Li, S. Yi et al., "Learning monocular depth by distilling cross-domain stereo networks." pp. 484-500.
+[18]	K. He, X. Zhang, S. Ren et al., "Deep residual learning for image recognition." pp. 770-778.
+[19]	J. Hu, M. Ozay, Y. Zhang et al., "Revisiting single image depth estimation: Toward higher resolution maps with accurate object boundaries." pp. 1043-1051.
+[20]	J. Hu, L. Shen, and G. Sun, "Squeeze-and-excitation networks." pp. 7132-7141.
+[21]	K. Karsch, C. Liu, and S. B. Kang, “Depth transfer: Depth extraction from video using non-parametric sampling,” IEEE transactions on pattern analysis and machine intelligence, vol. 36, no. 11, pp. 2144-2158, 2014.
+[22]	K. Khoshelham, and S. O. Elberink, “Accuracy and resolution of kinect depth data for indoor mapping applications,” Sensors, vol. 12, no. 2, pp. 1437-1454, 2012.
+[23]	D. P. Kingma, and J. Ba, “Adam: A method for stochastic optimization,” arXiv preprint arXiv:1412.6980, 2014.
+[24]	M. Klingner, J.-A. Termöhlen, J. Mikolajczyk et al., "Self-supervised monocular depth estimation: Solving the dynamic object problem by semantic guidance." pp. 582-600.
+[25]	M. Klingner, J.-A. Termöhlen, J. Mikolajczyk et al., "Self-supervised monocular depth estimation: Solving the dynamic object problem by semantic guidance." pp. 582-600.
+[26]	J. Konrad, M. Wang, and P. Ishwar, "2d-to-3d image conversion by learning depth from examples." pp. 16-22.
+[27]	J. N. Kundu, P. K. Uppala, A. Pahuja et al., "Adadepth: Unsupervised content congruent adaptation for depth estimation." pp. 2656-2665.
+[28]	I. Laina, C. Rupprecht, V. Belagiannis et al., "Deeper depth prediction with fully convolutional residual networks." pp. 239-248.
+[29]	T.-Y. Lin, P. Dollár, R. Girshick et al., "Feature pyramid networks for object detection." pp. 2117-2125.
+[30]	B. Liu, S. Gould, and D. Koller, "Single image depth estimation from predicted semantic labels." pp. 1253-1260.
+[31]	F. Liu, C. Shen, G. Lin et al., “Learning depth from single monocular images using deep convolutional neural fields,” IEEE transactions on pattern analysis and machine intelligence, vol. 38, no. 10, pp. 2024-2039, 2015.
+[32]	M. Liu, M. Salzmann, and X. He, "Discrete-continuous depth estimation from a single image." pp. 716-723.
+[33]	S. Liu, L. Qi, H. Qin et al., "Path aggregation network for instance segmentation." pp. 8759-8768.
+[34]	W. Liu, D. Anguelov, D. Erhan et al., "Ssd: Single shot multibox detector." pp. 21-37.
+[35]	F. Ma, G. V. Cavalheiro, and S. Karaman, "Self-supervised sparse-to-dense: Self-supervised depth completion from lidar and monocular camera." pp. 3288-3295.
+[36]	R. Mahjourian, M. Wicke, and A. Angelova, "Unsupervised learning of depth and ego-motion from monocular video using 3d geometric constraints." pp. 5667-5675.
+[37]	M. Menze, and A. Geiger, "Object scene flow for autonomous vehicles." pp. 3061-3070.
+[38]	A. Paszke, S. Gross, S. Chintala et al., “Automatic differentiation in pytorch,” 2017.
+[39]	K. PNVR, H. Zhou, and D. Jacobs, "Sharingan: Combining synthetic and real data for unsupervised geometry estimation." pp. 13974-13983.
+[40]	R. Ranftl, A. Bochkovskiy, and V. Koltun, “Vision transformers for dense prediction,” arXiv preprint arXiv:2103.13413, 2021.
+[41]	O. Russakovsky, J. Deng, H. Su et al., “Imagenet large scale visual recognition challenge,” International journal of computer vision, vol. 115, no. 3, pp. 211-252, 2015.
+[42]	A. Saxena, S. H. Chung, and A. Y. Ng, "Learning depth from single monocular images." pp. 1-8.
+[43]	A. Saxena, M. Sun, and A. Y. Ng, “Make3d: Learning 3d scene structure from a single still image,” IEEE transactions on pattern analysis and machine intelligence, vol. 31, no. 5, pp. 824-840, 2008.
+[44]	M. Schellevis, “Improving Self-Supervised Single View Depth Estimation by Masking Occlusion,” arXiv preprint arXiv:1908.11112, 2019.
+[45]	P. Sermanet, D. Eigen, X. Zhang et al., “Overfeat: Integrated recognition, localization and detection using convolutional networks,” arXiv preprint arXiv:1312.6229, 2013.
+[46]	C. Shu, K. Yu, Z. Duan et al., "Feature-metric loss for self-supervised learning of depth and egomotion." pp. 572-588.
+[47]	M. Song, S. Lim, and W. Kim, “Monocular Depth Estimation Using Laplacian Pyramid-Based Depth Residuals,” IEEE Transactions on Circuits and Systems for Video Technology, 2021.
+[48]	M. Tan, R. Pang, and Q. V. Le, "Efficientdet: Scalable and efficient object detection." pp. 10781-10790.
+[49]	A. Vaswani, N. Shazeer, N. Parmar et al., "Attention is all you need." pp. 5998-6008.
+[50]	S. Vijayanarasimhan, S. Ricco, C. Schmid et al., “Sfm-net: Learning of structure and motion from video,” arXiv preprint arXiv:1704.07804, 2017.
+[51]	C. Wang, J. M. Buenaposada, R. Zhu et al., "Learning depth from monocular videos using direct methods." pp. 2022-2030.
+[52]	H. Wang, R. Fan, P. Cai et al., “PVStereo: Pyramid voting module for end-to-end self-supervised stereo matching,” IEEE Robotics and Automation Letters, vol. 6, no. 3, pp. 4353-4360, 2021.
+[53]	Y. Wang, R. Wang, and Q. Dai, “A parametric model for describing the correlation between single color images and depth maps,” IEEE Signal Processing Letters, vol. 21, no. 7, pp. 800-803, 2013.
+[54]	S. Woo, J. Park, J.-Y. Lee et al., "Cbam: Convolutional block attention module." pp. 3-19.
+[55]	Z. Yin, and J. Shi, "Geonet: Unsupervised learning of dense depth, optical flow and camera pose." pp. 1983-1992.
+[56]	J. Zbontar, and Y. LeCun, "Computing the stereo matching cost with a convolutional neural network." pp. 1592-1599.
+[57]	K. Zhang, J. Xie, N. Snavely et al., "Depth sensing beyond LiDAR range." pp. 1692-1700.
+[58]	S. Zhang, Z. Wang, Q. Wang et al., "EDNet: Efficient Disparity Estimation with Cost Volume Combination and Attention-based Spatial Residual." pp. 5433-5442.
+[59]	C. Zhao, Q. Sun, C. Zhang et al., “Monocular depth estimation based on deep learning: An overview,” Science China Technological Sciences, pp. 1-16, 2020.
+[60]	S. Zhao, H. Fu, M. Gong et al., "Geometry-aware symmetric domain adaptation for monocular depth estimation." pp. 9788-9798.
+[61]	J. Zhou, Y. Wang, K. Qin et al., "Unsupervised high-resolution depth learning from videos with dual networks." pp. 6872-6881.
+[62]	T. Zhou, M. Brown, N. Snavely et al., "Unsupervised learning of depth and ego-motion from video." pp. 1851-1858.
